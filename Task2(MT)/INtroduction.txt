@@ -1,0 +1,8 @@
+Ensemble Techniques:
+1) Bagging
+2) Boosting
+3) Stacking 
+
+Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
+UCI Machine Learning Repository
+
